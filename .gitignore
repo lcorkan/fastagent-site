@@ -1,0 +1,4 @@
+# Not published: unused full-length videos and the local preview server
+videos/
+serve.py
+.DS_Store
