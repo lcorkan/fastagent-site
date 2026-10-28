@@ -9,7 +9,7 @@ window.FASTAGENT_CONFIG = {
   SUPABASE_KEY: "sb_publishable_DuMEjM4saE3Xzuct23z3Jw_-mCHTpOV",
 
   // 2. Founding-member $29 refundable deposit (your Stripe Payment Link)
-  STRIPE_DEPOSIT_URL: "STRIPE_DEPOSIT_URL",
+  STRIPE_DEPOSIT_URL: "https://buy.stripe.com/dRm7sL3R4anJ6vt0j293y01",
 
   // Contact email shown in the footer (just the address, no "mailto:")
   CONTACT_EMAIL: "CONTACT_EMAIL",

@@ -111,6 +111,7 @@ button { font: inherit; color: inherit; }
 }
 .cta .btn { width: 100%; min-height: 64px; }
 .deposit { display: grid; gap: 8px; }
+.deposit .btn + .deposit-note { margin-top: 4px; }
 .deposit-note {
   display: flex; gap: 8px; align-items: flex-start;
   font-size: 14px; line-height: 1.45; color: var(--muted); text-align: left;
